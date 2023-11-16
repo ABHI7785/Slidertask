@@ -1,0 +1,98 @@
+img.imggg {
+    width: 100%;
+    height: 271px;
+    border-radius: 11px;
+}
+h3.industry {
+    font-size: 20px;
+    color: #b7beca;
+    font-family: cursive;
+    font-weight: 900;
+}
+p.name {
+    font-size: 19px;
+    color: #94f510;
+    font-weight: 500;
+    font-family: cursive;
+}
+
+
+
+.carousel-indicators {
+    display: none;
+}
+
+
+.client-partner {
+ 
+    text-align: center;
+    
+
+}
+  
+  .client-partner h2 {
+    font-size: 50px;
+    font-family: cursive;
+    color:lightcyan;
+    font-weight: 700;
+    padding-top: 50px;
+    padding-bottom: 20px;
+  }
+  
+  .imggg {
+    width: 100%;
+    height: auto;
+  }
+  
+  .slick-slide {
+    padding: 15px;
+    transition: all 0.3s;
+  }
+  
+  .slick-slide:hover {
+    transform: scale(1.05);
+    transition: all 0.3s;
+  }
+  
+  .carousel-caption#caroucap {
+    text-align: center;
+    position: unset;
+}
+  
+  .industry {
+    font-size: 20px;
+    color: #b7beca;
+    font-family: cursive;
+    font-weight: 900;
+  }
+  
+  .name {
+    font-size: 18px;
+    color: #94f510;
+    font-weight: 500;
+    font-family: cursive;
+  }
+  
+ 
+  h5.web a {
+    text-decoration: underline;
+    color: darkcyan;
+    font-size: 14px;
+    font-family: cursive;
+}
+  
+  
+.custom-arrow.custom-arrow-left {
+   
+    font-size: 60px;
+    cursor: pointer;
+    color: white;
+}
+
+.custom-arrow.custom-arrow-right {
+ 
+  
+  font-size: 60px;
+  cursor: pointer;
+  color: white;
+}
